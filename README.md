@@ -1,5 +1,5 @@
 # Google-Merchendise-Store-Analysis-
-Introduction:
+****Introduction:
 
 The Google Merchandise Store Analysis project in Looker Studio aims to gain insights into various aspects of the store's performance, including Google Analytics, Cohort Analytics, and Funnel Analytics. The project explores different metrics related to transactions, conversion rates, revenue, user retention, and more. By analyzing these metrics, we aim to understand customer behavior, channel performance, revenue generation, and user engagement. The project utilizes data from various time periods and provides visualizations to facilitate easy interpretation of the findings.
 
