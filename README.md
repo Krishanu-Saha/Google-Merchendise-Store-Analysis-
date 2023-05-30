@@ -5,23 +5,7 @@ The Google Merchandise Store Analysis project in Looker Studio aims to gain insi
 
 **Objective:**
 
-The objective of this project is to analyze the performance of the Google Merchandise Store and provide insights to improve decision-making and enhance business outcomes. The specific goals of the project include:
-
-Analyze the month-on-month comparison of transactions, e-commerce conversion rate, and revenue .
-
-Identify the dates with the highest transactions, e-commerce conversion rate, and revenue 
-
-Determine if there are any common dates where transactions, conversion rate, and revenue were the same compared to the previous month.
-
-Calculate the average transactions and e-commerce conversion rate in relation to the previous month.
-
-Evaluate the performance of different channel groups in terms of transactions, e-commerce conversion rate, and revenue .
-
-Identify the channel group with the highest e-commerce conversion rate .
-
-Determine the number of sessions in July 2022 from affiliates.
-
-Analyze the change in revenue from paid search and calculate the percentage change.
+The objective of the Google Merchandise Store Analysis project is to gain insights into the performance of the store by analyzing metrics such as transactions, e-commerce conversion rates, revenue, user retention, and referral sessions. By answering specific questions and utilizing data from Google Analytics, Cohort Analytics, and Funnel Analytics, the project aims to understand customer behavior, channel performance, revenue generation, and user engagement. The ultimate goal is to provide actionable insights that can drive decision-making and improve the overall performance of the Google Merchandise Store.
 
 **Data Summary:**
 
